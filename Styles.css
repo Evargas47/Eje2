@@ -1,0 +1,49 @@
+#div1
+{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-between;
+}
+#div2
+{
+    background-color: rgb(193, 237, 80);
+}
+#div3 
+{
+    background-color: rgb(193, 237, 80);
+    display: flex;
+    gap: 10px;
+}
+#id
+{
+    background-color: black;
+}
+#div4
+{
+    background-color: rgb(34, 43, 13);
+    display: flex;
+    min-height: 300px;
+    margin-top: 10px;
+    text-align: center;
+}
+#div5
+{
+    display: flex;
+    margin-left: -10px;
+    margin-right: -10px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#div6
+{
+    background-color: rgb(34, 43, 13);
+    display: flex;
+    min-height: 50px;
+    margin-top: 10px;
+}
+#parrafo
+{
+    text-align: center;
+    background-color: rgb(96, 100, 18);
+    min-height: 100px;
+}
